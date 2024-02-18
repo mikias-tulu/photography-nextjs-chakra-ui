@@ -149,7 +149,7 @@ export default function PhotographyTips() {
       <Alert status="info" mt={8}>
         <AlertIcon />
         <Text fontSize="lg" ml={2}>
-          Don't forget to experiment with different settings!
+          Do not forget to experiment with different settings!
         </Text>
       </Alert>
 
@@ -158,7 +158,7 @@ export default function PhotographyTips() {
         <Heading mb={4}>Tips for Mobile Photography</Heading>
         <Text color={"gray.600"} fontSize={"xl"}>
           Elevate your mobile photography skills with these handy tips and
-          techniques. Whether you're a beginner or a seasoned pro, these tips
+          techniques. Whether you are a beginner or a seasoned pro, these tips
           will help you capture stunning images with your smartphone.
         </Text>
         <Stack spacing={6}>

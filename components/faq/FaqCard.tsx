@@ -51,7 +51,7 @@ export default function FAQPage() {
                     Participating in photography sessions offers numerous
                     benefits, including improving your photography skills,
                     discovering new perspectives, and capturing memorable
-                    moments. It's also an opportunity to explore your
+                    moments. It&apos;s also an opportunity to explore your
                     creativity, connect with like-minded individuals, and
                     immerse yourself in the beauty of your surroundings.
                   </Text>
@@ -99,7 +99,7 @@ export default function FAQPage() {
                   <Text color="gray.600">
                     We offer a diverse range of photography experiences in Addis
                     Ababa, from capturing the bustling streets and vibrant
-                    markets to exploring the city's rich cultural heritage and
+                    markets to exploring the city&apos;s rich cultural heritage and
                     stunning landscapes. Our photography sessions include guided
                     tours to iconic landmarks, themed photo walks focusing on
                     specific aspects of Addis Ababa, and customized photo
@@ -123,10 +123,10 @@ export default function FAQPage() {
                   <Text color="gray.600">
                     Scheduling a photography session in Addis Ababa is simple.
                     You can book a session by contacting us through our website,
-                    email, or phone. We'll work closely with you to understand
+                    email, or phone. We will work closely with you to understand
                     your photography goals, preferences, and schedule. Whether
-                    you're a beginner looking for guidance or a seasoned
-                    photographer seeking unique perspectives, we'll ensure you
+                    you are a beginner looking for guidance or a seasoned
+                    photographer seeking unique perspectives, we will ensure you
                     have an unforgettable photography experience in Addis Ababa.
                   </Text>
                 </AccordionPanel>
@@ -145,12 +145,12 @@ export default function FAQPage() {
                 </AccordionButton>
                 <AccordionPanel pb={4}>
                   <Text color="gray.600">
-                    You don't need to have professional photography equipment to
-                    participate in our sessions. Whether you're using a
+                    You do not need to have professional photography equipment to
+                    participate in our sessions. Whether you are using a
                     smartphone, a compact camera, or a DSLR, our experienced
-                    guides will help you make the most of your gear. We'll
+                    guides will help you make the most of your gear. We will
                     provide tips on composition, lighting, and settings to
-                    ensure you capture stunning images of Addis Ababa's beauty,
+                    ensure you capture stunning images of Addis Ababa&apos;s beauty,
                     regardless of your equipment.
                   </Text>
                 </AccordionPanel>
@@ -172,7 +172,7 @@ export default function FAQPage() {
                     Addis Ababa offers numerous picturesque locations ideal for
                     photography enthusiasts. Some popular spots include Meskel
                     Square, Holy Trinity Cathedral, National Museum of Ethiopia,
-                    and Mount Entoto. Whether you're interested in street
+                    and Mount Entoto. Whether you are interested in street
                     photography, architectural shots, or nature photography, our
                     guides will take you to the best spots in the city to
                     capture stunning images.

@@ -70,10 +70,10 @@ const AboutUsPage = () => {
     Our Story
   </Heading>
   <Text fontSize="xl" mb={4}>
-    Our story begins with a group of friends passionate about capturing the essence of Addis Ababa's vibrant streets through the lens of our mobile phones. We set out on a journey to explore every corner of the city, from its bustling markets to its serene alleyways.
+    Our story begins with a group of friends passionate about capturing the essence of Addis Ababa&apos;s vibrant streets through the lens of our mobile phones. We set out on a journey to explore every corner of the city, from its bustling markets to its serene alleyways.
   </Text>
   <Text fontSize="xl" mb={4}>
-    Armed with nothing but our phones and a shared love for photography, we embarked on urban adventures, seeking to uncover the hidden gems and everyday moments that define Addis Ababa's unique charm.
+    Armed with nothing but our phones and a shared love for photography, we embarked on urban adventures, seeking to uncover the hidden gems and everyday moments that define Addis Ababa&apos;s unique charm.
   </Text>
   <Text fontSize="xl" mb={8}>
     With each click of the shutter, we aimed to preserve the spirit of the city and share our perspective with the world. Our journey is a testament to the power of photography to capture the beauty of everyday life and the rich tapestry of experiences found in Addis Ababa.
@@ -84,7 +84,7 @@ const AboutUsPage = () => {
   </Heading>
   <VStack spacing={4} align="start">
     <Text fontSize="xl">
-      Our mission is to capture the essence of Addis Ababa's streets through mobile lenses and showcase the vibrant culture and diversity of the city.
+      Our mission is to capture the essence of Addis Ababa&apos;s streets through mobile lenses and showcase the vibrant culture and diversity of the city.
     </Text>
     <Text fontSize="xl">
       We believe in storytelling through images and aim to share the unique stories and everyday moments that make Addis Ababa special.
@@ -110,7 +110,7 @@ const AboutUsPage = () => {
         <Heading as="h3" size="md" mt={4}>Miki tulu</Heading>
         <Text>Computer Science Student & Photographer</Text>
         <Text mt={2}>
-          Miki is a passionate photographer with a keen eye for capturing the essence of street life. When he's not coding, you'll often find him exploring the streets of Addis Ababa with his trusty smartphone, seeking out unique photo opportunities.
+          Miki is a passionate photographer with a keen eye for capturing the essence of street life. When he&apos;s not coding, you will often find him exploring the streets of Addis Ababa with his trusty smartphone, seeking out unique photo opportunities.
         </Text>
       </Box>
     </TabPanel>
@@ -120,7 +120,7 @@ const AboutUsPage = () => {
         <Heading as="h3" size="md" mt={4}>Neba Seyium</Heading>
         <Text>Computer Science Student & Photography Enthusiast</Text>
         <Text mt={2}>
-          Neba's love for photography blossomed during her travels, and she's always eager to capture the beauty of different cultures and landscapes. As a computer science student, she enjoys merging her technical skills with her creative pursuits.
+          Neba&apos;s love for photography blossomed during her travels, and she&apos;s always eager to capture the beauty of different cultures and landscapes. As a computer science student, she enjoys merging her technical skills with her creative pursuits.
         </Text>
       </Box>
     </TabPanel>
@@ -130,7 +130,7 @@ const AboutUsPage = () => {
         <Heading as="h3" size="md" mt={4}>Faf Melese</Heading>
         <Text>Computer Science Student & Mobile Photography Enthusiast</Text>
         <Text mt={2}>
-          Faf's fascination with mobile photography stems from her desire to document everyday moments and share stories through images. As a computer science student, she sees photography as a creative outlet that complements her technical studies.
+          a fascination with mobile photography stems from her desire to document everyday moments and share stories through images. As a computer science student, she sees photography as a creative outlet that complements her technical studies.
         </Text>
       </Box>
     </TabPanel>

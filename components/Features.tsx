@@ -77,7 +77,7 @@ export default function SplitWithImage() {
           </Text>
           <Heading>Capturing the Essence of Addis Ababa Streets Through Mobile Lenses</Heading>
           <Text color={"gray.500"} fontSize={"lg"}>
-          Me and my friends, we're dedicated to capturing the vibrant spirit and unique beauty of Addis Ababa's streets. 
+          Me and my friends, we&apos;re dedicated to capturing the vibrant spirit and unique beauty of Addis Ababa&apos;s streets. 
           With a passion for storytelling through images, we aim to showcase the rich culture, diverse communities, 
           and everyday moments that make Addis Ababa a truly special place.
           </Text>
@@ -95,7 +95,7 @@ export default function SplitWithImage() {
               }
               iconBg={useColorModeValue("yellow.100", "yellow.900")}
               text={"Capture Authentic Street Scenes"}
-              description={"Immerse yourself in the vibrant energy of Addis Ababa's streets and capture authentic moments that tell stories."}
+              description={"Immerse yourself in the vibrant energy of Addis Ababa&apos;s streets and capture authentic moments that tell stories."}
             />
             <Feature
               icon={<FaMapMarkerAlt color={"green.500"} size={20} />}
@@ -109,7 +109,7 @@ export default function SplitWithImage() {
               }
               iconBg={useColorModeValue("purple.100", "purple.900")}
               text={"Showcase Urban Transformation"}
-              description={"Witness the ongoing transformation of Addis Ababa's urban landscape and capture the essence of change through your lens."}
+              description={"Witness the ongoing transformation of Addis Ababa&apos;s urban landscape and capture the essence of change through your lens."}
             />
           </Stack>
         </Stack>

@@ -54,7 +54,7 @@ export default function CallToActionWithAnnotation() {
             lineHeight={"110%"}
             color={"white"}
           >
-            <span style={{ fontWeight: "bold" }}>Capturing Addis Ababa's Streets</span> <br />
+            <span style={{ fontWeight: "bold" }}>Capturing Addis Ababa&apos;s Streets</span> <br />
             <Text as={"span"} color={"yellow.400"}>
              with Our Phone Lens
             </Text>
@@ -62,7 +62,7 @@ export default function CallToActionWithAnnotation() {
           <Text color={"white"}>
           Every photo you see on this website has been thoughtfully captured using the lens of our mobile phone.
           Embracing the simplicity and spontaneity of mobile photography, these images aim to authentically portray
-          the vibrant essence of Addis Ababa's streets.
+          the vibrant essence of Addis Ababa&apos;s streets.
           </Text>
           <Stack
             direction={"column"}

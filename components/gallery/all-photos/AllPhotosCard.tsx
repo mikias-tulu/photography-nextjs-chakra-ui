@@ -16,7 +16,7 @@ import {
   import { useState } from "react"
   
   const GalleryPage = () => {
-    const [selectedImage, setSelectedImage] = useState(null)
+    const [selectedImage, setSelectedImage] = useState<string | null>(null);
   
    
     const images = [
@@ -49,7 +49,7 @@ import {
     ];
     
   
-    const handleImageClick = (image) => {
+    const handleImageClick = (image: string) => {
       setSelectedImage(image)
     }
   
@@ -109,9 +109,9 @@ import {
         <Modal isOpen={!!selectedImage} onClose={handleCloseModal} size={"xl"}>
           <ModalOverlay />
           <ModalContent>
-            <ModalBody>
-              <Image src={selectedImage} alt={"Selected Image"} />
-            </ModalBody>
+          <ModalBody>
+            {selectedImage && <Image src={selectedImage} alt="Selected Image" />}
+          </ModalBody>        
           </ModalContent>
         </Modal>
       </Flex>
